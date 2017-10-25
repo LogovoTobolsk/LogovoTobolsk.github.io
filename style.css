@@ -4,8 +4,9 @@
 	background-image: url(images/Фонзаголовка.jpg);
 	padding:60px;
 	text-align:center;
+	cursor:url(images/Cursor.png);
 }
 body {
 	background-color:#190001;
-	cursor:url(images/Курсор сайта.png),url(images/Курсор сайта.cur),default;
+	cursor:url("Cursor.png");
 }
