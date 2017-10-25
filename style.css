@@ -8,5 +8,5 @@
 }
 body {
 	background-color:#190001;
-	cursor:url("Cursor.png"), auto;
+	cursor: url(images/Cursor.png), url(images/Cursor2.png), auto;
 }
