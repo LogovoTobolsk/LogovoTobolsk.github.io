@@ -10,3 +10,6 @@ body {
 	background-color:#190001;
 	cursor: url(images/Cursor.png), url(images/Cursor2.png), auto;
 }
+a {
+	cursor: url(images/Cursor.png), url(images/Cursor2.png), auto;
+}
