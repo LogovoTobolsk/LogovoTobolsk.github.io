@@ -4,12 +4,12 @@
 	background-image: url(images/Фонзаголовка.jpg);
 	padding:60px;
 	text-align:center;
-	cursor:url(images/Cursor.png);
+	cursor:url(images/Cursor.cur);
 }
 body {
 	background-color:#190001;
-	cursor: url(images/Cursor.png), url(images/Cursor2.png), auto;
+	cursor: url(images/Cursor.png), url(images/Cursor2.cur), auto;
 }
 a {
-	cursor: url(images/Cursor.png), url(images/Cursor2.png), auto;
+	cursor: url(images/Cursor.png), url(images/Cursor2.cur), auto;
 }
